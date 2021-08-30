@@ -1,2 +1,2 @@
-# TalentSpring-TsCoE-Python-Training-for-ML-AI
-TalentSpring Python Training for Machine Learning / Artificial Intelligence
+# TalentSprint-TsCoE-Python-Training-for-ML-AI
+TalentSprint Python Training for Machine Learning / Artificial Intelligence
